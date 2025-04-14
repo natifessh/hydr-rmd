@@ -1,0 +1,11 @@
+[package]
+name = "hydr-rmd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap={version="4.5.20",features=["derive"]}
+notify-rust="4.5.0"
+rodio="0.14.0"
+colored="2.0"
+chrono="0.4"
