@@ -8,7 +8,7 @@
 
 ## ⚙️ Usage
 
-Run using `cargo run` with the following options:
-cargo run -- -i <interval_in_minutes>
-cargo run -- -i <interval_in_minutes> -a <path_to_audio.wav>
-cargo run -- -i <interval_in_minutes> -a <path_to_audio.wav> -o
+- Run using `cargo run` with the following options:
+- cargo run -- -i <interval_in_minutes>
+- cargo run -- -i <interval_in_minutes> -a <path_to_audio.wav>
+- cargo run -- -i <interval_in_minutes> -a <path_to_audio.wav> -o
